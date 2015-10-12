@@ -96,4 +96,23 @@
 * 出发去北京，义弟大侠和袁同学三人相送，荣宠之至
 
 ## 2015-10-08
+* git diff (--cached, HEAD)
+* 欣赏电影《恐怖直播》
+* 荒废的一天，收获甚少, 未看书，未跑步，未有工作效率
 
+## 2015-10-09
+* 启动口语1560节点区分性训练
+* Weighted Round-Robin Scheduling 轮询调度算法 [http://blog.csdn.net/xiajun07061225/article/details/9318871](nginx实现)
+* 接手CD-PHONE重对齐重聚类的工作
+
+## 2015-10-10
+* CD-PHONE重对齐重聚类基于K-means已完成
+* make test参考kaldi makefiles/default_rules.mk
+
+## 2015-10-11
+* 完成识别系统连接监控页面
+* 好久没打球，记住投球是球的位置不要靠太后，运球时看防守人，不要看球
+
+## 2015-10-12
+* CD-PHONE重对齐重聚类基于Viterbi最小距离损失完成
+* Kaldi matrix Api整理
